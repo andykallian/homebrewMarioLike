@@ -26,16 +26,16 @@ O principal objetivo deste projeto é servir como:
 ## 🎥 Preview
 
 ### Antes vs Depois
-![Alt text]()
+![PVSNESLIB](https://github.com/andykallian/homebrewMarioLike/blob/97ff90128302962cdd801826d601849ee961ede6/imgSources/1.png)
 
-### Construção da fase (Tiled)
-![Alt text]()
+### Construção da fase
+![TILED](https://github.com/andykallian/homebrewMarioLike/blob/97ff90128302962cdd801826d601849ee961ede6/imgSources/2.png)
 
-### Gráficos e paleta (Gale)
-![Alt text]()
+### Gráficos e paleta
+![GRAPHICSGALE](https://github.com/andykallian/homebrewMarioLike/blob/97ff90128302962cdd801826d601849ee961ede6/imgSources/3.png)
 
 ### Configuração da ROM (HiROM + FastROM)
-![Alt text]()
+![HiROM + FastROM](https://github.com/andykallian/homebrewMarioLike/blob/97ff90128302962cdd801826d601849ee961ede6/imgSources/4.png)
 
 
 ---
