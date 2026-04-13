@@ -1,0 +1,9 @@
+[objects]
+LikeMario.obj
+soundbank.obj
+data.obj
+hdr.obj
+c:\snesdev\pvsneslib\lib\HiROM_FastROM/crt0_snes.obj
+c:\snesdev\pvsneslib\lib\HiROM_FastROM/libc.obj
+c:\snesdev\pvsneslib\lib\HiROM_FastROM/libm.obj
+c:\snesdev\pvsneslib\lib\HiROM_FastROM/libtcc.obj
